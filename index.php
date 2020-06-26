@@ -7,5 +7,6 @@
 print `ifconfig`;
 ?>
 </pre>
+  </body>
 </head>
 </html>
