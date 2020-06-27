@@ -1,16 +1,12 @@
 import smtplib
 import os
-file=open("/home/accuracy.txt","r")
-aa=file.read()
-aa=float(aa)
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 host_address="sender_emai"
 host_pass ="sender_password"
 guest_address ="rec_email"
-subject ="Your model get best accuracy"
-content ='''Hi vishnupal you get best 
-   %f accuracy '''%(aa)
+subject ="Your system is fail"
+content ="Hi vishnupal your webserver is fail" 
 message=MIMEMultipart()
 message['From'] =host_address
 message['To']=guest_address
