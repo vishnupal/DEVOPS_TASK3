@@ -43,7 +43,7 @@ spec:
         tier: frontend
     spec:
       containers:
-      - image: apache-server
+      - image: 9057508163/apache-server:v2
         name: webapp
        
         ports:
