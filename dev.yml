@@ -43,7 +43,7 @@ spec:
         tier: frontend
     spec:
       containers:
-      - image: vimal13/apache-webserver-php
+      - image: httpd
         name: webapp
        
         ports:
@@ -51,7 +51,7 @@ spec:
           name: webapp
         volumeMounts:
         - name: web-vol1
-          mountPath: /var/www/html
+          mountPath: usr/local/apache2/htdocs/
       volumes:
       - name: web-vol1
         persistentVolumeClaim:
