@@ -27,6 +27,7 @@
 ![task_1](images/task3_1.jpg)
 ### here job4 only trigger when our site are not give the status code 200 so this send email to user 
 ![task_1](images/task4.jpg)
+### i run execute python file 
 ![task_1](images/task4_1.jpg)
-
+### here i use build pipeline plugin for visual for our running jobs
 ![task_1](images/build_pipeline.jpg)
