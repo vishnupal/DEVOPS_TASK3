@@ -51,7 +51,7 @@ spec:
           name: webapp
         volumeMounts:
         - name: web-vol1
-          mountPath: /var/www/html/
+          mountPath: /var/www/html
       volumes:
       - name: web-vol1
         persistentVolumeClaim:
