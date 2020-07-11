@@ -12,7 +12,6 @@
 ![task1](images/task1.jpg)
 
 ![task_1](images/task1_2.jpg)
-![task_1](images/task1_2.jpg)
 ![task_1](images/task2.jpg)
 ![task_1](images/task2_1.jpg)
 ![task_1](images/task2_2.jpg)
