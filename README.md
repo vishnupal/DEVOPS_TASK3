@@ -11,3 +11,13 @@
 ## so perfoming the job1 i pull the github repo from github when webhook trigger 
 ![task1](images/task1.jpg)
 
+![task_1](images/task1_2.jpg)
+![task_1](images/task1_2.jpg)
+![task_1](images/task2.jpg)
+![task_1](images/task2_1.jpg)
+![task_1](images/task2_2.jpg)
+![task_1](images/task3.jpg)
+![task_1](images/tas3_1.jpg)
+![task_1](images/task4.jpg)
+![task_1](images/task4_1.jpg)
+![task_1](images/build_pipeline.jpg)
