@@ -17,6 +17,7 @@
 
 ![task_1](images/task2.jpg)
 ## here i use sleep 40 bcz some time running the code it required some time you can use if else condition to check running state with some command.
+![task_1](images/task2_1.jpg)
 
 ![task_1](images/task2_2.jpg)
 ## our job3  run after when job2 successfully run  here it just check the status code of our pod here i use httpd so here i use curl to check the web status code of so i just print ok but in case condition is false the it trigger our job4 , our job4 is send the email to our user. 
@@ -25,4 +26,7 @@
 ## here job4 only trigger when our site are not give the status code 200 so this send email to user 
 ![task_1](images/task4.jpg)
 ![task_1](images/task4_1.jpg)
+### When our website fail then send mail to user for sending mail here i use python file you can use jenkins plugin also and always . here i use google to allow third party software to access my gmail other wise python code not run successfully
+![task_4](images/mail.jpg)
+### here i use build pipeline plugin for visual 
 ![task_1](images/build_pipeline.jpg)
