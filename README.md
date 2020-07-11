@@ -8,5 +8,6 @@
 
 ## I Perform this task on my debian based linux system so here i have already jenkins are install so  i not create any image of jenkins  and my minikube are configure with my docker engine so when i run the k8s  then it is run on my docker engine but you can use jenkins iamge and configure kubectl on top of that image to mange minikube .
 
+## so perfoming the job1 i pull the github repo from github when webhook trigger 
 ![task1](images/task1.jpg)
 
